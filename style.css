@@ -1,0 +1,83 @@
+body{
+	width:100%;
+}
+
+#in p{
+	margin:0px;
+	padding:0px;
+	margin-bottom: 10px;
+}
+	
+
+#registerForm{
+	position: absolute;
+	margin:0px;
+	padding:20px;
+	border:1px solid #d4d4d4;
+	top:70px;
+	width:20%;
+	margin-left: 35%;
+	height:400px;
+	background-color: #ebebeb;
+}
+
+.star{
+	color:#f60017;
+}
+label{
+	color:#241071;
+	font-size:15px;
+}
+#name,
+#fam,
+#login,
+#password,
+#password2,
+#login1,
+#password3{
+	height:20px;
+}
+
+#loginForm{
+	position: absolute;
+	margin:0px;
+	padding:20px;
+	border:1px solid #d4d4d4;
+	top:70px;
+	width:16%;
+	margin-left:42%;
+	height: 200px;
+	background-color: #ebebeb;
+}
+
+#reg,
+#log{
+	position: absolute;
+	right:20px;
+	bottom:20px;
+	background-color:#241071; 
+	padding:5px 20px 5px 20px;
+	border:0px;
+	color:white;
+	cursor:pointer;
+}
+.com{
+	color:red;
+	font-weight: bold;
+	font-size:14px;
+}
+
+#main{
+	position: absolute;
+	left:60px;
+	top:55px;
+	background-color:white; 
+	padding:5px 20px 5px 20px;
+	border:0px;
+	cursor:pointer;
+}
+#main a{
+	color:#241071;
+	font-weight: bold;
+	font-size:15px;
+}
